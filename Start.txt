@@ -1,4 +1,0 @@
-1/Partie Admin: http://localhost/Find-Your-Translator/Admin/Admin/Vues/routeurAdmin.php
-2/Partie User: http://localhost/Find-Your-Translator/User/Vues/routeurAcceuil.php
-3/Pour visualiser les documents soumis vous devez rajouter vous meme d'autres documents, car j'ai supprimé tous les documents du fichier( laissé das la bdd)
-4/Dans la BDD il y'a `fichiertraducteurs`, ce sont les documents du traducteur (CV,Assermentation, Ref...), Lors du recrutement, quand il ajoute des docs, il seront stockés dans la bdd.
